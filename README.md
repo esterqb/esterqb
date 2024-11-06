@@ -12,6 +12,6 @@ Git / GitHub / VS-Code / IntelliJ / Eclipse
 ## 💻 OS :
 Linux 🐧 / Windows 
 
-## ..................
+## Also...
 
 🐱 I like cats 🐱
