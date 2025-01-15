@@ -5,7 +5,7 @@
 📚 I have a University Degree in English Studies by UNED 📚
 
 ## 📊 Currently learning:
-HTML5 / CSS3 / Java ☕ / Python 🐍
+HTML5 / CSS3 / Java ☕ / Python 🐍 /Dart 🎯
 
 ## 🛠 Tools :
 Git / GitHub / VS-Code / IntelliJ / Eclipse
