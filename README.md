@@ -8,7 +8,7 @@
 HTML5 / CSS3 / Java ☕ / Python 🐍 / Dart 🎯 / Javascript / Node.JS
 
 ## 🛠 Tools :
-Git / GitHub / VS-Code / IntelliJ / Eclipse
+GitHub / VS-Code / IntelliJ / Eclipse / Android Studio
 
 ## 💻 OS :
 Linux 🐧 / Windows 
