@@ -18,4 +18,4 @@ Linux 🐧 / Windows
 🐱 I like cats 🐱
 
 ## 
-[![esterqb's github stats](https://github-readme-stats.vercel.app/api?username=esterqb)](https://github.com/esterqb/github-readme-stats)
+[![esterqb's github stats](https://github-readme-stats.vercel.app/api?username=esterqb&count_private=true)](https://github.com/esterqb/github-readme-stats)
