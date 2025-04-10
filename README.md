@@ -16,8 +16,3 @@ Linux 🐧 / Windows
 ## Also...
 
 🐱 I like cats 🐱
-
-## 
-[![esterqb's github stats](https://github-readme-stats.vercel.app/api?username=esterqb&count_private=true&show_icons=true&theme=cobalt)](https://github.com/esterqb/github-readme-stats)
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esterqb&layout=compact)](https://github.com/esterqb/github-readme-stats&theme=cobalt)
