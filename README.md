@@ -5,10 +5,10 @@
 📚 I have a University Degree in English Studies by UNED 📚
 
 ## 📊 Currently learning:
-HTML5 / CSS3 / Java ☕ / Python 🐍 / Dart 🎯 / Javascript / Node.JS
+HTML5 / CSS3 / Java ☕ / Python 🐍 / Dart 🎯 / Javascript / Node.JS / Sass / Bootstrap / Angular / Spring Boot 🍃 / MySQL
 
 ## 🛠 Tools :
-GitHub / VS-Code / IntelliJ / Eclipse / Android Studio
+GitHub / VS-Code / IntelliJ / Android Studio / MySQL Workbench / PyCharm 🐍 / WebStorm 🌩️
 
 ## 💻 OS :
 Linux 🐧 / Windows 
