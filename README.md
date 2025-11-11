@@ -17,4 +17,5 @@ Linux 🐧 / Windows
 
 🐱 I like cats 🐱
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/esterqb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esterqb&layout=compact)](https://github.com/esterqb)
+
