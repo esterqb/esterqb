@@ -17,7 +17,8 @@ Linux 🐧 / Windows
 
 🐱 I like cats 🐱
 
-[![Top Langs](**https://**github-readme-stats-woad-phi-55.vercel.app**/api/top-langs/?username=esterqb&layout=compact**)](github.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esterqb&layout=compact)](https://github.com/esterqb)
+
 
 
 
