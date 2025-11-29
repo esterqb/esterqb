@@ -5,7 +5,7 @@
 📚 I have a University Degree in English Studies by UNED 📚
 
 ## 📊 Currently learning:
-HTML5 / CSS3 / Java ☕ / Python 🐍 / Dart 🎯 / Javascript / Node.JS / Sass / Bootstrap / Angular / Spring Boot 🍃 / MySQL / JavaSwing 🖥️ / Kotlin 👾
+HTML5 / CSS3 / Java ☕ / Python 🐍 / Dart 🎯 / Javascript / Node.JS / Sass / Bootstrap / Angular / Spring Boot 🍃 / MySQL / JavaSwing 🖥️ / JavaFX 🎨 / Kotlin 👾
 
 ## 🛠 Tools :
 GitHub / VS-Code / IntelliJ / Android Studio / MySQL Workbench / PyCharm 🐍 / WebStorm 🌩️ / NetBeans 🫛
