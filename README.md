@@ -4,7 +4,7 @@
 👩🏻‍💻 I'm Ester from Córdoba (Spain 💃🏻), and I'm currently studying multiplatform application development (DAM) at IES Antonio Gala. 👩🏻‍💻
 📚 I have a University Degree in English Studies by UNED 📚
 
-## 📊 Currently learning:
+## 📊 Always keep learning!
 Spring Boot 🍃/ HTML5 / CSS3 / Java ☕ / Python 🐍 / Dart 🎯 / Javascript / Node.JS / Sass / Bootstrap / Angular / MySQL / JavaSwing 🖥️ / JavaFX 🎨 / Kotlin 👾 / React ⚛️ / PHP
 
 ## 🛠 Tools :
@@ -15,4 +15,4 @@ Linux 🐧 / Windows
 
 ## Also...
 
-🐱 I like cats 🐱
+🐱 I like cats and learning languages 🐱
